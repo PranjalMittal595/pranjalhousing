@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Circle Background -->
+  <circle cx="200" cy="200" r="180" fill="none" stroke="#4a3f7a" stroke-width="8"/>
+  
+  <!-- Buildings/Chart Bars -->
+  <rect x="160" y="120" width="20" height="80" fill="#4a3f7a"/>
+  <rect x="190" y="100" width="20" height="100" fill="#4a3f7a"/>
+  <rect x="220" y="80" width="20" height="120" fill="#4a3f7a"/>
+  <rect x="250" y="60" width="20" height="140" fill="#4a3f7a"/>
+  
+  <!-- Handshake -->
+  <path d="M120 220 Q140 200 160 220 Q180 240 200 220 Q220 200 240 220 Q260 240 280 220" 
+        fill="none" stroke="#4a3f7a" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Hand details -->
+  <circle cx="140" cy="240" r="8" fill="#4a3f7a"/>
+  <circle cx="160" cy="250" r="8" fill="#4a3f7a"/>
+  <circle cx="180" cy="255" r="8" fill="#4a3f7a"/>
+  <circle cx="200" cy="250" r="8" fill="#4a3f7a"/>
+  <circle cx="220" cy="245" r="8" fill="#4a3f7a"/>
+  
+  <!-- Company Name -->
+  <text x="200" y="320" text-anchor="middle" font-family="Poppins, sans-serif" font-size="32" font-weight="700" fill="#4a3f7a">HORIZON</text>
+  <text x="200" y="345" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="400" fill="#6c757d" letter-spacing="2px">COLLABORATION</text>
+</svg>
